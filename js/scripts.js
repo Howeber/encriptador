@@ -9,9 +9,9 @@ const ingTexto = document.getElementById("ingTexto");
 const resultados= document.getElementById("resultados");
 
 let remplazos=[
-    ["a","ai"],
     ["e","enter"],
     ["i","imes"],
+    ["a","ai"],
     ["o","ober"],
     ["u","ufat"]
 ]
