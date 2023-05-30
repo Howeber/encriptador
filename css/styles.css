@@ -22,8 +22,6 @@ textarea::placeholder{
     width: 48px;
 }
 
-/* body */
-/* main */
 .cuadros{
     display: grid;
     grid-template-columns: 2fr 1fr;
